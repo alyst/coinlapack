@@ -1,0 +1,6 @@
+[wrap-file]
+directory=lapack-3.8.0
+
+source_url=http://www.netlib.org/lapack/lapack-3.8.0.tar.gz
+source_filename=lapack-3.8.0.tar.gz
+source_hash=deb22cc4a6120bff72621155a9917f485f96ef8319ac074a7afbc68aab88bcf6
